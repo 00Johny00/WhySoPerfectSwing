@@ -1,0 +1,65 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'F:/ProjektyJavahorakIT/Java 5 etapowe laboratoria/Attachments-Java-mail uzupe³niaj¹cy/Zip/KowalMateusz.cw1.wersja_1/DoskonaleLiczby/Doskonala/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'F:/ProjektyJavahorakIT/Java 5 etapowe laboratoria/Attachments-Java-mail uzupe³niaj¹cy/Zip/KowalMateusz.cw1.wersja_1/DoskonaleLiczby/Doskonala/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'PerfectNumber 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'F:/ProjektyJavahorakIT/Java 5 etapowe laboratoria/Attachments-Java-mail uzupe³niaj¹cy/Zip/KowalMateusz.cw1.wersja_1/DoskonaleLiczby/Doskonala/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'PerfectNumber 1.0-SNAPSHOT API'
+com.mycompany.doskonala.Controller
+com.mycompany.doskonala.Model
+com.mycompany.doskonala
+com.mycompany.doskonala.View
+'F:/ProjektyJavahorakIT/Java 5 etapowe laboratoria/Attachments-Java-mail uzupe³niaj¹cy/Zip/KowalMateusz.cw1.wersja_1/DoskonaleLiczby/Doskonala/src/main/java/com/mycompany/doskonala/Controller/Controller.java'
+'F:/ProjektyJavahorakIT/Java 5 etapowe laboratoria/Attachments-Java-mail uzupe³niaj¹cy/Zip/KowalMateusz.cw1.wersja_1/DoskonaleLiczby/Doskonala/src/main/java/com/mycompany/doskonala/Controller/ControllerExceptionHandler.java'
+'F:/ProjektyJavahorakIT/Java 5 etapowe laboratoria/Attachments-Java-mail uzupe³niaj¹cy/Zip/KowalMateusz.cw1.wersja_1/DoskonaleLiczby/Doskonala/src/main/java/com/mycompany/doskonala/Controller/package-info.java'
+'F:/ProjektyJavahorakIT/Java 5 etapowe laboratoria/Attachments-Java-mail uzupe³niaj¹cy/Zip/KowalMateusz.cw1.wersja_1/DoskonaleLiczby/Doskonala/src/main/java/com/mycompany/doskonala/Model/Model.java'
+'F:/ProjektyJavahorakIT/Java 5 etapowe laboratoria/Attachments-Java-mail uzupe³niaj¹cy/Zip/KowalMateusz.cw1.wersja_1/DoskonaleLiczby/Doskonala/src/main/java/com/mycompany/doskonala/Model/package-info.java'
+'F:/ProjektyJavahorakIT/Java 5 etapowe laboratoria/Attachments-Java-mail uzupe³niaj¹cy/Zip/KowalMateusz.cw1.wersja_1/DoskonaleLiczby/Doskonala/src/main/java/com/mycompany/doskonala/package-info.java'
+'F:/ProjektyJavahorakIT/Java 5 etapowe laboratoria/Attachments-Java-mail uzupe³niaj¹cy/Zip/KowalMateusz.cw1.wersja_1/DoskonaleLiczby/Doskonala/src/main/java/com/mycompany/doskonala/PerfNumber.java'
+'F:/ProjektyJavahorakIT/Java 5 etapowe laboratoria/Attachments-Java-mail uzupe³niaj¹cy/Zip/KowalMateusz.cw1.wersja_1/DoskonaleLiczby/Doskonala/src/main/java/com/mycompany/doskonala/View/package-info.java'
+'F:/ProjektyJavahorakIT/Java 5 etapowe laboratoria/Attachments-Java-mail uzupe³niaj¹cy/Zip/KowalMateusz.cw1.wersja_1/DoskonaleLiczby/Doskonala/src/main/java/com/mycompany/doskonala/View/View.java'
+F:\ProjektyJavahorakIT\Java 5 etapowe laboratoria\Attachments-Java-mail uzupe³niaj¹cy\Zip\KowalMateusz.cw1.wersja_1\DoskonaleLiczby\Doskonala\src\main\java = 1642177731155
+F:\ProjektyJavahorakIT\Java 5 etapowe laboratoria\Attachments-Java-mail uzupe³niaj¹cy\Zip\KowalMateusz.cw1.wersja_1\DoskonaleLiczby\Doskonala\target\site\apidocs\allclasses-index.html = 1642178504729
+F:\ProjektyJavahorakIT\Java 5 etapowe laboratoria\Attachments-Java-mail uzupe³niaj¹cy\Zip\KowalMateusz.cw1.wersja_1\DoskonaleLiczby\Doskonala\target\site\apidocs\allclasses.html = 1639135938000
+F:\ProjektyJavahorakIT\Java 5 etapowe laboratoria\Attachments-Java-mail uzupe³niaj¹cy\Zip\KowalMateusz.cw1.wersja_1\DoskonaleLiczby\Doskonala\target\site\apidocs\allpackages-index.html = 1642178504729
+F:\ProjektyJavahorakIT\Java 5 etapowe laboratoria\Attachments-Java-mail uzupe³niaj¹cy\Zip\KowalMateusz.cw1.wersja_1\DoskonaleLiczby\Doskonala\target\site\apidocs\constant-values.html = 1639135937000
+F:\ProjektyJavahorakIT\Java 5 etapowe laboratoria\Attachments-Java-mail uzupe³niaj¹cy\Zip\KowalMateusz.cw1.wersja_1\DoskonaleLiczby\Doskonala\target\site\apidocs\deprecated-list.html = 1639135938000
+F:\ProjektyJavahorakIT\Java 5 etapowe laboratoria\Attachments-Java-mail uzupe³niaj¹cy\Zip\KowalMateusz.cw1.wersja_1\DoskonaleLiczby\Doskonala\target\site\apidocs\element-list = 1642178504573
+F:\ProjektyJavahorakIT\Java 5 etapowe laboratoria\Attachments-Java-mail uzupe³niaj¹cy\Zip\KowalMateusz.cw1.wersja_1\DoskonaleLiczby\Doskonala\target\site\apidocs\help-doc.html = 1642178504776
+F:\ProjektyJavahorakIT\Java 5 etapowe laboratoria\Attachments-Java-mail uzupe³niaj¹cy\Zip\KowalMateusz.cw1.wersja_1\DoskonaleLiczby\Doskonala\target\site\apidocs\index-all.html = 1642178504760
+F:\ProjektyJavahorakIT\Java 5 etapowe laboratoria\Attachments-Java-mail uzupe³niaj¹cy\Zip\KowalMateusz.cw1.wersja_1\DoskonaleLiczby\Doskonala\target\site\apidocs\index.html = 1642178504714
+F:\ProjektyJavahorakIT\Java 5 etapowe laboratoria\Attachments-Java-mail uzupe³niaj¹cy\Zip\KowalMateusz.cw1.wersja_1\DoskonaleLiczby\Doskonala\target\site\apidocs\jquery-ui.overrides.css = 1642178504935
+F:\ProjektyJavahorakIT\Java 5 etapowe laboratoria\Attachments-Java-mail uzupe³niaj¹cy\Zip\KowalMateusz.cw1.wersja_1\DoskonaleLiczby\Doskonala\target\site\apidocs\member-search-index.js = 1642178504729
+F:\ProjektyJavahorakIT\Java 5 etapowe laboratoria\Attachments-Java-mail uzupe³niaj¹cy\Zip\KowalMateusz.cw1.wersja_1\DoskonaleLiczby\Doskonala\target\site\apidocs\member-search-index.zip = 1639135937000
+F:\ProjektyJavahorakIT\Java 5 etapowe laboratoria\Attachments-Java-mail uzupe³niaj¹cy\Zip\KowalMateusz.cw1.wersja_1\DoskonaleLiczby\Doskonala\target\site\apidocs\module-search-index.js = 1642178504729
+F:\ProjektyJavahorakIT\Java 5 etapowe laboratoria\Attachments-Java-mail uzupe³niaj¹cy\Zip\KowalMateusz.cw1.wersja_1\DoskonaleLiczby\Doskonala\target\site\apidocs\overview-summary.html = 1642178504760
+F:\ProjektyJavahorakIT\Java 5 etapowe laboratoria\Attachments-Java-mail uzupe³niaj¹cy\Zip\KowalMateusz.cw1.wersja_1\DoskonaleLiczby\Doskonala\target\site\apidocs\overview-tree.html = 1642178504698
+F:\ProjektyJavahorakIT\Java 5 etapowe laboratoria\Attachments-Java-mail uzupe³niaj¹cy\Zip\KowalMateusz.cw1.wersja_1\DoskonaleLiczby\Doskonala\target\site\apidocs\package-search-index.js = 1642178504729
+F:\ProjektyJavahorakIT\Java 5 etapowe laboratoria\Attachments-Java-mail uzupe³niaj¹cy\Zip\KowalMateusz.cw1.wersja_1\DoskonaleLiczby\Doskonala\target\site\apidocs\package-search-index.zip = 1639135937000
+F:\ProjektyJavahorakIT\Java 5 etapowe laboratoria\Attachments-Java-mail uzupe³niaj¹cy\Zip\KowalMateusz.cw1.wersja_1\DoskonaleLiczby\Doskonala\target\site\apidocs\script.js = 1642178504857
+F:\ProjektyJavahorakIT\Java 5 etapowe laboratoria\Attachments-Java-mail uzupe³niaj¹cy\Zip\KowalMateusz.cw1.wersja_1\DoskonaleLiczby\Doskonala\target\site\apidocs\search.js = 1642178504860
+F:\ProjektyJavahorakIT\Java 5 etapowe laboratoria\Attachments-Java-mail uzupe³niaj¹cy\Zip\KowalMateusz.cw1.wersja_1\DoskonaleLiczby\Doskonala\target\site\apidocs\serialized-form.html = 1642178504635
+F:\ProjektyJavahorakIT\Java 5 etapowe laboratoria\Attachments-Java-mail uzupe³niaj¹cy\Zip\KowalMateusz.cw1.wersja_1\DoskonaleLiczby\Doskonala\target\site\apidocs\stylesheet.css = 1642178504808
+F:\ProjektyJavahorakIT\Java 5 etapowe laboratoria\Attachments-Java-mail uzupe³niaj¹cy\Zip\KowalMateusz.cw1.wersja_1\DoskonaleLiczby\Doskonala\target\site\apidocs\tag-search-index.js = 1642178504745
+F:\ProjektyJavahorakIT\Java 5 etapowe laboratoria\Attachments-Java-mail uzupe³niaj¹cy\Zip\KowalMateusz.cw1.wersja_1\DoskonaleLiczby\Doskonala\target\site\apidocs\type-search-index.js = 1642178504729
+F:\ProjektyJavahorakIT\Java 5 etapowe laboratoria\Attachments-Java-mail uzupe³niaj¹cy\Zip\KowalMateusz.cw1.wersja_1\DoskonaleLiczby\Doskonala\target\site\apidocs\type-search-index.zip = 1639135937000

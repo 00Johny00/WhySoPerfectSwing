@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.mycompany.doskonala"},{"l":"com.mycompany.doskonala.Controller"},{"l":"com.mycompany.doskonala.Model"},{"l":"com.mycompany.doskonala.View"}];updateSearchResults();
